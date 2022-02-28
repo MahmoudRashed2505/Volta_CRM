@@ -1,4 +1,6 @@
-# volta_crm
+# Votla CRM
+
+CRM Saas Using Djang as Backend & VueJS as FrontEnd
 
 ## Project setup
 ```
